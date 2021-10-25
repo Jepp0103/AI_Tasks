@@ -1,0 +1,20 @@
+Assignments Linear regression: 
+
+Assignment 7: 
+Try change the hyper parameters for our first gradient descent implementation, and try to answer these questions:
+
+How many iterations are necessary to get a good result?
+1206 iterations.
+
+What is the smallest and largest values of alpha that works well?
+Alpha =  0.06 (smallest amount of iterations)
+Alpha = 0.01 (highest amount of iterations)
+
+What influence does different values of theta have?
+It changes a (the coefficient)  and b (starting point)
+
+Assignment 8
+
+How many iterations are necessary to get a good approximation?
+
+How much bigger is the error at that point than doing 5000 iterations?
